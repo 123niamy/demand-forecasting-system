@@ -1,3 +1,11 @@
+## ⚠️ Challenges Encountered
+
+- **Data Quality & Consistency:** Ensuring the sales data was clean, correctly formatted, and free of missing or inconsistent values required careful preprocessing and validation.
+- **Feature Engineering:** Identifying and creating meaningful features (e.g., lagged demand, rolling averages, time-based features) to improve model performance was iterative and required domain understanding.
+- **Model Generalization:** Avoiding overfitting with limited data and ensuring the model could generalize to unseen demand patterns was addressed through validation and regularization.
+- **Module Import Paths:** Handling Python import errors (especially for API deployment) required adjusting import statements and project structure for compatibility with FastAPI and Uvicorn.
+- **API Deployment:** Packaging the model as a robust, user-friendly API involved resolving dependency issues and ensuring smooth file uploads and predictions.
+- **Reproducibility:** Maintaining reproducible results across scripts and environments required careful management of random seeds and dependencies.
 ## 🧠 Topics Covered
 
 - Supervised Machine Learning (Regression)
