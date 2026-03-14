@@ -1,3 +1,33 @@
+## 🧠 Topics Covered
+
+- Supervised Machine Learning (Regression)
+- Data Preprocessing & Cleaning
+- Feature Engineering & Selection
+- Model Training & Hyperparameter Tuning
+- Model Evaluation (RMSE, MAE, R²)
+- Batch & Real-Time Prediction
+- REST API Deployment (FastAPI)
+- Automated Testing & Reproducibility
+## ℹ️ About
+
+This project is a comprehensive, end-to-end machine learning system for demand forecasting in e-commerce. It enables businesses to predict product demand, optimize inventory, and make data-driven decisions. The solution includes data preprocessing, feature engineering, model training and evaluation, automated testing, and a production-ready API for real-time or batch predictions. Designed for clarity, reproducibility, and extensibility, this project is ideal for both practical deployment and as a portfolio showcase for ML engineering skills.
+## 🎥 Project Demo
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/123niamy/demand-forecasting-system/main/demo/demo-screenshot.png" alt="Demo Screenshot" width="600"/>
+</p>
+
+<!-- Optionally, add a GIF demo -->
+<!--
+<p align="center">
+	<img src="https://raw.githubusercontent.com/123niamy/demand-forecasting-system/main/demo/demo.gif" alt="Demo GIF" width="600"/>
+</p>
+-->
+
+<!-- Optionally, add a video demo link -->
+<!--
+**Watch the full demo:** [YouTube Video](https://youtu.be/your-demo-link)
+-->
 (The file `c:\Users\user\Machine learning project\README.md` exists, but is empty)
 
 <div align="center">
