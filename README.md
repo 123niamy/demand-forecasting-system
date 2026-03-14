@@ -1,7 +1,16 @@
 (The file `c:\Users\user\Machine learning project\README.md` exists, but is empty)
+
 <div align="center">
 	<h1>Demand Forecasting System for E-Commerce</h1>
 	<p><b>End-to-end machine learning solution for predicting product demand, optimizing inventory, and improving business decisions.</b></p>
+
+	<!-- Badges -->
+	<p>
+		<a href="https://www.python.org/downloads/release/python-3140/"><img src="https://img.shields.io/badge/python-3.14-blue.svg" alt="Python 3.14"></a>
+		<a href="https://github.com/123niamy/demand-forecasting-system/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+		<a href="https://github.com/123niamy/demand-forecasting-system/actions"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"></a>
+		<a href="https://github.com/123niamy/demand-forecasting-system/issues"><img src="https://img.shields.io/github/issues/123niamy/demand-forecasting-system.svg" alt="Issues"></a>
+	</p>
 </div>
 
 ---
